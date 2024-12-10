@@ -1,1 +1,1 @@
-![Alt text](images/cover.png?)
+![Alt text](images/cover.png??)
